@@ -181,6 +181,10 @@ Physical and sensory disabilities include blind and low vision, deaf and hard of
 
 Image Source: [https://commons.wikimedia.org/wiki/File:ATM_keypad_with_braille.jpg](https://commons.wikimedia.org/wiki/File:ATM_keypad_with_braille.jpg)
 
+::: notes
+This image shows an ATM keypad with braille on each key. This is a commonly provided accommodation since the passing of the Americans with Disabilities Act in 1990.
+:::
+
 ---
 
 .left-column[
@@ -213,6 +217,10 @@ such as those giving rise to some Special Olympics events, some of whose partici
 Cognitive disabilities include memory, problem solving, attention, thinking, reading, linguistic and verbal comprehension, math comprehension, visual comprehension, and digital affinity. Digital affinity is a new concept championed by Gregg Vanderheiden at the University of Maryland. Briefly, it posits that some people lack talent for working with digital artifacts and that these people are severely disadvantaged in a world requiring digital interactions.
 
 Image source: [https://dotorg.brightspotcdn.com/e6/03/9312b9e844d19ee8d24ac9a002c3/what-is-intellectual-disability.jpg](https://dotorg.brightspotcdn.com/e6/03/9312b9e844d19ee8d24ac9a002c3/what-is-intellectual-disability.jpg)
+
+::: notes
+The Special Olympics was created in 1968 to provide sports and community to people with intellectual and physical disabilities. It is a separate organization from the Paralympics, which is held in tandem with the Olympics. 
+:::
 
 ---
 
@@ -247,6 +255,10 @@ Disability experiences include the need to watch videos and hold meetings with s
 Image source: [https://design-justice.pubpub.org/pub/cfohnud7/release/2](https://design-justice.pubpub.org/pub/cfohnud7/release/2)
 
 We need to educate disabled designers, so that your design team includes them. The next best thing is for designers to communicate with disabled people and people who have thought a lot about disability. There's a spectrum of communication ranging from reading to video to direct experience, and a spectrum of people who have thought about disability in different professions.
+
+::: notes
+"Nothing About Us Without Us" is a commonly used phrase by disability advocates. It was first popularized in the 1990s during the disability rights movement. It was created to explain that part of disability rights is including disabled people in legislature, media, and more, to provide more representation for the disabled community.
+:::
 
 ---
 

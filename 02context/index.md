@@ -455,6 +455,11 @@ Not all frameworks are in law. For example, @Dogucu2021 is a voluntary framework
 
 # END {.r-fit-text}
 
+# References
+
+::: {#refs}
+:::
+
 # COLOPHON
 
 This slideshow was produced with reveal.js using the moon theme.
@@ -462,6 +467,4 @@ This slideshow was produced with reveal.js using the moon theme.
 pandoc was used to convert the source markdown to html.
 
 The source can be found at the same URL as the presentation by substituting `index.md` for `index.html`
-
-# References
 
